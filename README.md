@@ -1,2 +1,2 @@
 # XTron
-xTron APP
+xTron React Native APP
